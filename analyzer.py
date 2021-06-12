@@ -1,6 +1,6 @@
 from os import listdir
 import pandas as pd
-import matplotlib as plt
+from matplotlib import pyplot as plt
 import numpy as np
 pd.set_option("display.max_columns", None)
 
